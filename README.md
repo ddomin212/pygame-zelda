@@ -1,0 +1,1 @@
+Pygame neco jako zelda az na to ze LIDL
